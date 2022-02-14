@@ -7,4 +7,4 @@ SKILS:
     * HTML
     * CSS
 - Git
-> In my free time I'd love to pay football
+> In my free time I'd love listen to music
